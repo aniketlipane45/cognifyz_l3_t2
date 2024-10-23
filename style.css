@@ -1,0 +1,102 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9fc;
+    color: #444;
+}
+
+header {
+    background: linear-gradient(135deg, #8E44AD, #3498DB);
+    color: white;
+    text-align: center;
+    padding: 3em 0;
+    transition: background 0.5s ease;
+}
+
+header h1 {
+    font-size: 2.8em;
+    margin: 0;
+}
+
+header:hover {
+    background: linear-gradient(135deg, #3498DB, #8E44AD);
+}
+
+
+section {
+    padding: 40px 20px;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 900px;
+}
+
+h2 {
+    color: #6C3483;
+    font-size: 2em;
+    margin-bottom: 15px;
+}
+
+p, ul {
+    font-size: 1.1em;
+    line-height: 1.8;
+    color: #555;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 10px 0;
+    font-weight: bold;
+    color: #555;
+}
+
+
+.cta {
+    margin: 40px 0; display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+
+button {
+    background: #8E44AD;
+    color: white;
+    border: none;
+    padding: 15px 40px;
+    font-size: 1.2em;
+    cursor: pointer;
+    border-radius: 50px;
+    transition: background-color 0.4s, transform 0.2s ease-in-out;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+    background: #3498DB;
+    transform: scale(1.05);
+}
+
+footer {
+    background-color: #333;
+    color: rgb(73, 210, 23);
+    text-align: center;
+    padding: 30px 0;
+    margin-top: 60px;
+}
+
+footer p {
+    margin: 10px 0;
+}
+
+footer a {
+    color: #FF79C6;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+footer a:hover {
+    color: #FFB6C1;
+}
