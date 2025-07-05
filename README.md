@@ -10,13 +10,13 @@ This project is a modern and responsive **internship landing page** for **Cognif
 
 The landing page includes:
 
-- 🟣 Internship program introduction
-- 🟣 Key highlights and benefits
-- 🟣 Required qualifications
-- 🟣 “Apply Now” button linking directly to Cognifyz internship page
-- 🟣 Contact section with email and Instagram link
+ 🟣 Internship program introduction
+ 🟣 Key highlights and benefits
+ 🟣 Required qualifications
+ 🟣 “Apply Now” button linking directly to Cognifyz internship page
+ 🟣 Contact section with email and Instagram link
 
----
+
 
 ## ✨ Features
 
@@ -92,9 +92,9 @@ This project is released under the [MIT License](LICENSE).
 
 This project was developed as part of the **Cognifyz Technologies Web Development Internship - Level 1 Task**.
 
----
+
 
 > Built with ❤️ by [Aniket Lipane](https://github.com/aniketlipane45)
 
-````
+
 
