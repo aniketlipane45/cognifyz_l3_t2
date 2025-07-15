@@ -43,7 +43,7 @@ All static images (if any) should be stored under `assets/`.
 
 ## 📁 Project Structure
 
-```
+<pre>
 
 📦 cognifyz-internship-landing/
 ├── index.html              # Main HTML content
@@ -54,7 +54,7 @@ All static images (if any) should be stored under `assets/`.
 │   └── screenshot.png
 ├── README.md               # Project documentation
 
-````
+</pre>
 
 
 ## ▶️ How to Run This Project
